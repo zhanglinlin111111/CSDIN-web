@@ -1,0 +1,12 @@
+#translations_import_menu, #translations_export_menu, #translations_onsite_menu{
+    display: none;
+}
+
+
+.prisna_wp_translate_header{
+    display: none;
+}
+
+.prisna_wp_translate_admin_container{
+    margin: 20px;
+}

@@ -1,0 +1,220 @@
+.ehaitech_support {
+    position: fixed;
+    bottom: 0;
+}
+
+.ehaitech_support .ehaitech_logo {
+    display: block;
+    width: 205px;
+    height: 50px;
+    background-image: url(/wp-content/plugins/elementor_addon_zendkee/libs/image/ehaitech_logo.png);
+}
+
+.wp-admin #adminmenuwrap .ehaitech_support {
+    bottom: 20px;
+    left: 18px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px 0px rgb(0, 0, 0, 0.2);
+}
+
+.wp-admin #adminmenuwrap .ehaitech_support .ehaitech_logo {
+    background-repeat: no-repeat;
+}
+
+.wp-admin.folded #adminmenuwrap .ehaitech_support .ehaitech_logo {
+    width: 35px;
+    height: 35px;
+    background-image: url(/wp-content/plugins/elementor_addon_zendkee/libs/image/ehaitech_logo_m.png);
+}
+
+.wp-admin.folded #adminmenuwrap .ehaitech_support {
+    left: 13px;
+}
+
+.ehaitech_support .ehaitech_link {
+    display: block;
+}
+
+/* 左边菜单 */
+.wp-admin #wpwrap #adminmenumain #adminmenuwrap {
+    height: 98%;
+}
+
+.wp-admin #adminmenuwrap .eat-user-profile-section #wp-admin-bar-my-account {
+    height: 100px !important;
+}
+
+.wp-admin #adminmenuwrap.ps .eat-user-profile-section #wp-admin-bar-my-account {
+    height: auto !important;
+}
+
+.wp-admin.eat-body-class-wrap.eat-dashboard-temp-23.folded #wp-admin-bar-my-account li#wp-admin-bar-user-info a img {
+    left: 9px;
+}
+
+.wp-admin.eat-body-class-wrap.eat-dashboard-temp-23.folded .eat-user-profile-section #wp-admin-bar-user-info a::after {
+    left: 10px;
+}
+
+.wp-admin.eat-body-class-wrap.eat-dashboard-temp-23.folded .eat-user-profile-section #wp-admin-bar-logout a::after {
+    left: 35px;
+}
+
+.wp-admin #adminmenuwrap .eat-user-profile-section #wp-admin-bar-my-account .ab-sub-wrapper .ab-submenu #wp-admin-bar-edit-profile a::after {
+    content: "";
+}
+
+.wp-admin #adminmenuwrap.ps .eat-user-profile-section #wp-admin-bar-my-account .ab-sub-wrapper .ab-submenu #wp-admin-bar-user-info a::after {
+    left: 90px;
+}
+
+.wp-admin #adminmenuwrap.ps .eat-user-profile-section #wp-admin-bar-my-account .ab-sub-wrapper .ab-submenu #wp-admin-bar-logout a::after {
+    left: 130px;
+}
+
+.wp-admin #adminmenumain #adminmenuwrap #adminmenu .menu-top .menu-top {
+    color: #3f51b5;
+}
+
+.wp-admin #adminmenuwrap .menu-top .wp-menu-name {
+    line-height: 25px;
+}
+
+.wp-admin #adminmenumain #adminmenuwrap .menu-top .menu-top {
+    position: relative;
+}
+
+.wp-admin #adminmenumain #adminmenuwrap .menu-top .wp-menu-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 15%;
+    left: 12px;
+    background-color: #f5f5f5;
+    border-radius: 3px;
+}
+
+.wp-admin #adminmenumain #adminmenuwrap .menu-top:hover .wp-menu-image {
+    background-color: #fff;
+    box-shadow: 0px 1px 5px 1px #7d7d7d;
+    transition: box-shadow 0.3s linear, background-color 0.3s linear;
+}
+
+.wp-admin #adminmenumain #adminmenuwrap .menu-top.opensub .wp-menu-image,
+.wp-admin #adminmenumain #adminmenuwrap .menu-top.wp-menu-open .wp-menu-image {
+    background-color: #fff;
+    box-shadow: 0px 1px 5px 1px #7d7d7d;
+    transition: box-shadow 0.3s linear, background-color 0.3s linear;
+}
+
+.wp-admin #adminmenuwrap #adminmenu a:focus,
+.wp-admin #adminmenuwrap #adminmenu a:hover {
+    border-left: 3px solid rgb(63, 81, 181);
+    box-shadow: none;
+}
+
+#adminmenu .wp-not-current-submenu .wp-submenu,
+.folded #adminmenu .wp-has-current-submenu .wp-submenu {
+    border-left: none;
+}
+
+.wp-admin #adminmenuwrap #adminmenu .menu-top .wp-submenu-wrap a:hover {
+    border-left: none;
+}
+
+.wp-admin #adminmenuwrap .menu-top a.menu-top {
+    border-left: 3px solid #fff;
+}
+
+.wp-admin.folded #adminmenu li.current.menu-top .menu-top {
+    border-color: #216daa;
+}
+
+.wp-admin.folded #adminmenumain #adminmenuwrap .menu-top .wp-menu-image {
+    left: 15%;
+}
+
+.wp-admin #adminmenuwrap .menu-top .dashicons-admin-post:before {
+    content: "";
+    width: 21px;
+    height: 25px;
+    margin-left: 0 !important;
+    background-repeat: no-repeat;
+    background-image: url(/wp-content/plugins/elementor_addon_zendkee/libs/image/menu_image1.png);
+}
+
+.wp-admin #adminmenuwrap .menu-top .dashicons-admin-media:before {
+    content: "";
+    width: 21px;
+    height: 21px;
+    margin-left: 0 !important;
+    background-repeat: no-repeat;
+    background-image: url(/wp-content/plugins/elementor_addon_zendkee/libs/image/menu_image2.png);
+}
+
+.wp-admin #adminmenuwrap .menu-top .dashicons-archive:before {
+    content: "";
+    width: 21px;
+    height: 24px;
+    margin-left: 0 !important;
+    background-repeat: no-repeat;
+    background-image: url(/wp-content/plugins/elementor_addon_zendkee/libs/image/menu_image3.png);
+}
+
+
+.wp-admin #adminmenuwrap .menu-top .dashicons-admin-comments:before {
+    content: "";
+    width: 21px;
+    height: 19px;
+    margin-left: 0 !important;
+    background-repeat: no-repeat;
+    background-image: url(/wp-content/plugins/elementor_addon_zendkee/libs/image/menu_image4.png);
+}
+
+.wp-admin #adminmenuwrap .menu-top .dashicons-admin-users:before {
+    content: "";
+    width: 21px;
+    height: 22px;
+    margin-left: 0 !important;
+    background-repeat: no-repeat;
+    background-image: url(/wp-content/plugins/elementor_addon_zendkee/libs/image/menu_image5.png);
+}
+
+
+.wp-admin #adminmenuwrap .menu-top .dashicons-list-view:before {
+    content: "";
+    width: 21px;
+    height: 19px;
+    margin-left: 0 !important;
+    background-repeat: no-repeat;
+    background-image: url(/wp-content/plugins/elementor_addon_zendkee/libs/image/menu_image6.png);
+}
+
+.wp-admin #adminmenuwrap .menu-top .dashicons-admin-page:before {
+    margin-left: 0 !important;
+}
+
+.wp-admin.folded #adminmenu .wp-has-submenu .wp-submenu {
+    border-left: none;
+}
+
+.wp-admin.folded #adminmenu .wp-submenu-head:hover {
+    box-shadow: none;
+}
+
+.eat-body-class-wrap.eat-dashboard-temp-23 #adminmenu .wp-submenu li.current a,
+.eat-body-class-wrap.eat-dashboard-temp-23 #adminmenu .wp-submenu li.current a:focus {
+    color: rgb(63, 81, 181) !important;
+}
+
+.wp-admin.folded #adminmenumain #adminmenuwrap #adminmenu .wp-has-submenu .wp-submenu .wp-submenu-head {
+    padding: 15px 22px;
+}
+
+/* content */
+.wp-admin.eat-body-class-wrap.eat-dashboard-temp-23.folded #wpadminbar {
+    left: 60px !important;
+}

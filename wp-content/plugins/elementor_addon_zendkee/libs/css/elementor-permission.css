@@ -1,0 +1,56 @@
+/*.elementor-component-tab.elementor-panel-navigation-tab.elementor-tab-control-advanced,*/
+
+/* backend ,left panel,Layout */
+div#elementor-controls>div.elementor-control-type-section:not(.elementor-control-section_background):not(.elementor-control-section_layout):not(.elementor-control-section_structure):not(.elementor-control-section_title):not(.elementor-control-section_title_style):not(.elementor-control-section_background_overlay):not(.elementor-control-section_image):not(.elementor-control-section_style_image),
+div#elementor-panel-page-elements,
+.elementor-component-tab.elementor-panel-navigation-tab.elementor-tab-control-layout,
+div#elementor-panel-footer-settings,
+div#elementor-panel-footer-navigator,
+div#elementor-panel-footer-history,
+div#elementor-panel-page-settings {
+    display: none;
+}
+
+
+/* backend ,left panel,Advanced */
+#elementor-panel-page-editor > div.elementor-panel-navigation > div.elementor-component-tab.elementor-panel-navigation-tab.elementor-tab-control-advanced{
+    display: none;
+}
+
+
+div#elementor-controls>div:first-child {
+    display: block !important;
+}
+
+div#elementor-panel-page-editor div#elementor-controls>.elementor-controls-popover {
+    display: none !important;
+}
+
+div#elementor-panel-header-add-button,
+div#elementor-panel-header-menu-button {
+    display: none !important;
+}
+
+.elementor-control.elementor-control-section_structure.elementor-control-type-section.elementor-label-inline.elementor-control-separator-none,
+.elementor-control.elementor-control-section_structure.elementor-control-type-section.elementor-label-inline.elementor-control-separator-none,
+ul.elementor-editor-element-settings.elementor-editor-section-settings>li.elementor-editor-element-setting.elementor-editor-element-add,
+ul.elementor-editor-element-settings.elementor-editor-section-settings>li.elementor-editor-element-setting.elementor-editor-element-remove {
+    display: none !important;
+}
+
+div#elementor-controls>.elementor-control.elementor-control-section_layout.elementor-control-type-section.elementor-label-inline.elementor-control-separator-none.elementor-open,
+div#elementor-controls>.elementor-control.elementor-control-section_layout.elementor-control-type-section.elementor-label-inline.elementor-control-separator-none.elementor-open~div {
+    display: none !important;
+}
+
+ul.elementor-editor-element-settings.elementor-editor-section-settin>li::before,
+li.elementor-editor-element-setting.elementor-editor-element-edit::before {
+    content: unset !important;
+}
+
+
+div#elementor-add-new-section,
+.elementor-first-add,
+.elementor-element-overlay>ul.elementor-editor-element-settings.elementor-editor-column-settings>li.elementor-editor-element-setting.elementor-editor-element-edit {
+    display: none;
+}

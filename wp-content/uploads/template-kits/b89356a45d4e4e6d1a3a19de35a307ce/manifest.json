@@ -1,0 +1,1201 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Dustrium - Template kit for Industrial & Manufacturing",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/web.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Dustrium - Error 404",
+            "screenshot": "screenshots\/dustrium-error-404.jpg",
+            "source": "templates\/dustrium-error-404.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/?elementor_library=dustrium-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Dustrium - Single post",
+            "screenshot": "screenshots\/dustrium-single-post.jpg",
+            "source": "templates\/dustrium-single-post.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/?elementor_library=dustrium-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Dustrium - Archive blog",
+            "screenshot": "screenshots\/dustrium-archive-blog.jpg",
+            "source": "templates\/dustrium-archive-blog.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/?elementor_library=dustrium-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Dustrium - Footer",
+            "screenshot": "screenshots\/dustrium-footer.jpg",
+            "source": "templates\/dustrium-footer.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/?elementor_library=dustrium-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Dustrium - Header",
+            "screenshot": "screenshots\/dustrium-header.jpg",
+            "source": "templates\/dustrium-header.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/dustrium\/?elementor_library=dustrium-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.5",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.9.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "discussing-manufacturing-issues.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/discussing-manufacturing-issues-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 164351,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8Y8988K"
+        },
+        {
+            "filename": "industrial-factory-employee-working-in-metal-manufacturing-industry-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/industrial-factory-employee-working-in-metal-manufacturing-industry-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 113151,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-82N5RV3"
+        },
+        {
+            "filename": "industrial-plant-at-night.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/industrial-plant-at-night-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 181283,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D8LHX5A"
+        },
+        {
+            "filename": "Global-Map.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/Global-Map-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 29067,
+            "dimensions": [
+                1080,
+                606
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "Pattern_img.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/Pattern_img-800x660.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 36475,
+            "dimensions": [
+                1213,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "automotive-mechanical-assembly-engine-transmission-suspension-and-breaking-system-automotive.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/automotive-mechanical-assembly-engine-transmission-suspension-and-breaking-system-automotive-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 218493,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TTQ3VME"
+        },
+        {
+            "filename": "side-view-of-young-engineer-in-workwear-using-digital-tablet.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/side-view-of-young-engineer-in-workwear-using-digital-tablet-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 115816,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N66FCSE"
+        },
+        {
+            "filename": "industry-arm-automation-robot-machine-for-using-in-manufacturing-factory-production-engineering.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/industry-arm-automation-robot-machine-for-using-in-manufacturing-factory-production-engineering-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 136346,
+            "dimensions": [
+                1280,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7X88RS8"
+        },
+        {
+            "filename": "petrochemical-complex-and-storage-tanks.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/petrochemical-complex-and-storage-tanks-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 151379,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PS2SU5D"
+        },
+        {
+            "filename": "construction-worker-hardhat-blueprints-and-construction-level-top-view.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/construction-worker-hardhat-blueprints-and-construction-level-top-view-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 161909,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQZ99AU"
+        },
+        {
+            "filename": "contemporary-industrial-powerful-water-boiler-with-gas-burner-and-automatic-control-systems.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/contemporary-industrial-powerful-water-boiler-with-gas-burner-and-automatic-control-systems-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 226773,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXCPZJ7"
+        },
+        {
+            "filename": "young-successful-technician-or-repairman-of-industrial-machines.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/young-successful-technician-or-repairman-of-industrial-machines-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 128623,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JRSR7EK"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/velocity-9-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 38343,
+            "dimensions": [
+                2333,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "utosia-2.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/utosia-2-800x205.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 17452,
+            "dimensions": [
+                2340,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "lighting.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/lighting-800x258.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 15621,
+            "dimensions": [
+                1860,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "hex-lab.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/hex-lab-800x229.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 12283,
+            "dimensions": [
+                2100,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "goldline.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/goldline-800x186.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 18770,
+            "dimensions": [
+                2580,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "fox-hub.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/fox-hub-800x187.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 15676,
+            "dimensions": [
+                2566,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "earth-2.0.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/earth-2.0-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 54681,
+            "dimensions": [
+                2520,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "workers-working-together-in-crane-manufacturing-facility-china.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/workers-working-together-in-crane-manufacturing-facility-china-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 161528,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9JVW2C8"
+        },
+        {
+            "filename": "industrial-factory-employee-working-in-metal-manufacturing-industry.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/industrial-factory-employee-working-in-metal-manufacturing-industry-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 122904,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NC73SD6"
+        },
+        {
+            "filename": "worker-in-crane-manufacturing-facility-china.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/worker-in-crane-manufacturing-facility-china-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/dustrium-archive-blog.json",
+                    "name": "Dustrium - Archive blog"
+                }
+            ],
+            "filesize": 94703,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RU9Y8W4"
+        },
+        {
+            "filename": "img__0007_Layer-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0007_Layer-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 42410,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "img__0006_Layer-2.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0006_Layer-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 50306,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "img__0004_Layer-4.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0004_Layer-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 40613,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img_1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img_1.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 41171,
+            "dimensions": [
+                500,
+                433
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-construction-worker-in-uniform-posing-on-yel-G6GGB4T"
+        },
+        {
+            "filename": "img__0000_Layer-9.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0000_Layer-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 66892,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-man-NRPSUZ6"
+        },
+        {
+            "filename": "img__0003_Layer-6.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0003_Layer-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 59754,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-DS4AFRZ"
+        },
+        {
+            "filename": "img__0004_Layer-5.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0004_Layer-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 51549,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-5MGZQ9D"
+        },
+        {
+            "filename": "img__0008_Layer-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0008_Layer-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 57406,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-businessman-VUTPNJ8"
+        },
+        {
+            "filename": "Payment-Icon.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/Payment-Icon-800x133.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 29013,
+            "dimensions": [
+                1111,
+                185
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "worker-using-equipment-in-crane-manufacturing-facility-china.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/worker-using-equipment-in-crane-manufacturing-facility-china-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 153124,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BW7AP9X"
+        },
+        {
+            "filename": "group-of-industrial-people-standing-at-industrial-factory.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/group-of-industrial-people-standing-at-industrial-factory-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 208089,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2NU9KGM"
+        },
+        {
+            "filename": "img__0007_Layer-2.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0007_Layer-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 49426,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-portrait-THLKV2M"
+        },
+        {
+            "filename": "img__0006_Layer-3.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0006_Layer-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 56774,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-B7MMN26"
+        },
+        {
+            "filename": "img__0002_Layer-7.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0002_Layer-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 60210,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-DKUJAZ7"
+        },
+        {
+            "filename": "img__0005_Layer-4.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/img__0005_Layer-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 54273,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-NWMEKCZ"
+        },
+        {
+            "filename": "female-worker-in-safety-helmet-and-uniform-working-with-blueprints-.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/female-worker-in-safety-helmet-and-uniform-working-with-blueprints--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 131540,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4SENTYQ"
+        },
+        {
+            "filename": "industrial-portland-oregon.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/industrial-portland-oregon-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/dustrium-error-404.json",
+                    "name": "Dustrium - Error 404"
+                }
+            ],
+            "filesize": 215640,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRW4WPP"
+        },
+        {
+            "filename": "logo_dustium_w3.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/logo_dustium_w3.png",
+            "templates": [
+                {
+                    "source": "templates\/dustrium-footer.json",
+                    "name": "Dustrium - Footer"
+                }
+            ],
+            "filesize": 7216,
+            "dimensions": [
+                657,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_dustium_1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/dustrium\/wp-content\/uploads\/sites\/3\/2023\/01\/logo_dustium_1.png",
+            "templates": [
+                {
+                    "source": "templates\/dustrium-header.json",
+                    "name": "Dustrium - Header"
+                }
+            ],
+            "filesize": 8878,
+            "dimensions": [
+                657,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

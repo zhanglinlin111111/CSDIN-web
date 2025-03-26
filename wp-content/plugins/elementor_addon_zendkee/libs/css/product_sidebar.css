@@ -1,0 +1,56 @@
+/* 侧边栏css样式 */
+
+.nav-menu-sidebar .menu-item .sub-menu {
+    position: static;
+    width: auto;
+}
+
+.nav-menu-sidebar .menu-item .divnone {
+    display: none !important;
+}
+
+/* 展开按钮旋转 */
+.nav-menu-sidebar .menu-item .sub-arrow i {
+    transform: rotate(90deg) !important;
+}
+
+.nav-menu-sidebar .menu-item .sub-arrow .izhuang {
+    transform: rotate(0deg) !important;
+}
+
+/* 下划线 */
+.nav-menu-sidebar .menu-item {
+    border-bottom: 1px solid #dddddd;
+}
+
+.nav-menu-sidebar .menu-item:last-child {
+    border-bottom: none;
+}
+
+/* 子菜单前面的方块 */
+.nav-menu-sidebar .menu-item a {
+    justify-content: space-between;
+}
+
+.nav-menu-sidebar .menu-item .sub-menu a {
+    padding-left: 15px;
+}
+
+.nav-menu-sidebar .menu-item .sub-menu a::before {
+    content: "";
+    display: block;
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    left: 0;
+    background-color: #e0e0e0;
+}
+
+/* 消除鼠标离开子菜单时的事件 */
+.nav-menu-sidebar .elementor-sub-item:focus {
+    background-color: transparent;
+}
+
+.nav-menu-sidebar ul .sub-menu .sub-menu {
+    /*background-color: #fff !important;*/
+}

@@ -1,0 +1,42 @@
+/* swiper的前进后退 */
+.product .swiper-button-next,
+.product .swiper-button-prev {
+    width: 20px;
+    height: 35px;
+    bottom: 11%;
+}
+
+.product .swiper-button-prev,
+.swiper-container-rtl .swiper-button-next {
+    left: 25px;
+}
+
+
+.product .swiper-button-next,
+.swiper-container-rtl .swiper-button-pre {
+    right: 25px;
+}
+
+/* ol的超出隐藏去掉 */
+.woocommerce .product .woocommerce-product-gallery .flex-control-nav.flex-control-thumbs {
+    display: -webkit-box;
+    display: -moz-box;
+    overflow: hidden;
+}
+
+/* swiper的分页器 */
+.product .swiper-container .swiper-pagination {
+    bottom: 8px !important;
+}
+
+.product .swiper-container .swiper-pagination .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    background: #007aff;
+}
+
+
+/*修复产品主图高度的底边距*/
+.woocommerce div.product div.woocommerce-product-gallery.swiper-container {
+    /*margin-bottom: 0;*/
+}

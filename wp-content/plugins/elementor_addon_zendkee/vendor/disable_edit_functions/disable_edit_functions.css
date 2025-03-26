@@ -1,0 +1,500 @@
+    /***** General *****/
+    /* Dynamic Tags */
+    .elementor-control-dynamic-switcher
+
+
+
+    /***** Heading *****/
+    /* Title - Title HTML Tag */
+    ,.elementor-control-ekit_heading_title_tag
+
+    /* Title - HTML Tag */
+    ,.elementor-control-header_size
+
+    /* Title - Show Border */
+    ,.elementor-control-show_title_border
+
+    /* Title - Float Left */
+    ,.elementor-control-title_float_left
+
+    /* Subtitle - Show Sub Title */
+    ,.elementor-control-ekit_heading_sub_title_show
+
+    /* Subtitle - Border Sub Title */
+    ,.elementor-control-ekit_heading_sub_title_border
+
+    /* Subtitle - Sub Title Position */
+    ,.elementor-control-ekit_heading_sub_title_position
+
+    /* Subtitle - Sub Title HTML Tag */
+    ,.elementor-control-ekit_heading_sub_title_tag
+
+    /* Title Description - Show Description */
+    ,.elementor-control-ekit_heading_section_extra_title_show
+
+    /* Shadow Text */
+    ,.elementor-control-shadow_text_section
+
+    /* Seperator */
+    ,.elementor-control-ekit_heading_section_seperator
+
+
+
+
+
+    /***** Icon *****/
+    /* Icon - View */
+    ,.elementor-control-view
+    /* Icon - Alignment */
+    ,.elementor-control-align
+
+
+
+
+
+    /***** Icon Box *****/
+    /* Icon Box - Equal Height */
+    ,.elementor-control-enable_equal_height
+
+    /* Icon Box - Icon Type */
+    ,.elementor-control-ekit_icon_box_enable_header_icon
+
+    /* Icon Box - Add icon */
+    ,.elementor-control-ekit_icon_box_header_icons__switch
+
+    /* Read More - Enable Button */
+    ,.elementor-control-ekit_icon_box_enable_btn
+
+    /* Read More - Enable Button on Hover */
+    ,.elementor-control-ekit_icon_box_enable_hover_btn
+
+    /* Read More - Add icon */
+    ,.elementor-control-ekit_icon_box_icons__switch
+
+    /* Read More - Icon Position */
+    ,.elementor-control-ekit_icon_box_icon_align
+
+    /* Settings */
+    ,.elementor-control-ekit_icon_box_section_settings
+
+    /* Badge - Show Badge */
+    ,.elementor-control-ekit_icon_box_badge_control
+
+    /* Badge - Position */
+    ,.elementor-control-ekit_icon_box_badge_position
+
+
+
+    /***** Video *****/
+    /* Video - Button Style */
+    ,.elementor-control-ekit_video_popup_button_style
+
+    /* Video - Add icon */
+    ,.elementor-control-ekit_video_popup_button_icons__switch
+
+    /* Video - Button Icon */
+    ,.elementor-control-ekit_video_popup_button_icons
+
+    /* Video - Active Glow */
+    ,.elementor-control-ekit_video_popup_video_glow
+
+
+    /* Video Options - Autoplay */
+    ,.elementor-control-autoplay
+
+    /* Video Options - Mute */
+    ,.elementor-control-mute
+
+    /* Video Options - Loop */
+    ,.elementor-control-loop
+
+    /* Video Options - Player Controls */
+    ,.elementor-control-controls
+
+    /* Video Options - Modest Branding */
+    ,.elementor-control-modestbranding
+
+    /* Video Options - Privacy Mode */
+    ,.elementor-control-yt_privacy
+
+    /* Video Options - Suggested Videos */
+    ,.elementor-control-rel
+
+    /* Image Overlay - Lazy Load */
+    ,.elementor-control-lazy_load
+
+    /* Image Overlay - Image Size */
+    ,.elementor-control-image_overlay_size
+
+    /* Image Overlay - Play Icon */
+    ,.elementor-control-show_play_icon
+
+    /* Image Overlay - Lightbox */
+    ,.elementor-control-lightbox
+
+
+
+
+
+    /***** Testimonial *****/
+    /* Testimonial - Image Size */
+    ,.elementor-control-testimonial_image_size
+
+    /* Testimonial - Image Position */
+    ,.elementor-control-testimonial_image_position
+
+    /* Testimonial - Alignment */
+    ,.elementor-control-testimonial_alignment
+
+
+
+    /***** Media Carousel *****/
+    /* Slides - Skin */
+    ,.elementor-control-skin
+
+    /* Slides - Slides Per View */
+    ,.elementor-control-slides_per_view
+
+    /* Slides - Slides to Scroll */
+    ,.elementor-control-slides_to_scroll
+
+    /* Slides - Height */
+    ,.elementor-control-height
+
+    /* Slides - Width */
+    ,.elementor-control-width
+
+    /* Additional Options */
+    ,.elementor-control-section_additional_options
+
+
+
+    /***** Tab Product *****/
+    /* Tabs - Order By */
+    ,.elementor-control-orderby
+
+    /* Tabs - Order */
+    ,.elementor-control-order
+
+    /* Tabs - Products Per Page */
+    ,.elementor-control-posts_per_page
+
+    /* Tabs - How Many Items To Preview In Mobile */
+    ,.elementor-control-slidesPerView_mobile
+
+    /* Tabs - How Many Items To Preview In PC */
+    ,.elementor-control-slidesPerView_pc
+
+
+
+
+
+
+
+
+
+
+    /***** Button *****/
+    /* Content */
+    /* Settings - Add icon */
+    ,.elementor-control-ekit_btn_section_settings
+
+    /* Settings - Icon Position */
+    ,.elementor-control-ekit_btn_icon_align
+
+    /* Settings - Alignment */
+    ,.elementor-control-ekit_btn_align
+
+    /* Settings - Class */
+    ,.elementor-control-ekit_btn_class
+
+    /* Settings - id */
+    ,.elementor-control-ekit_btn_id
+
+
+
+
+
+    /* Button - Type */
+    ,.elementor-control-button_type
+
+    /* Button - Size */
+    ,.elementor-control-size
+
+    /* Button - Icon position */
+    ,.elementor-control-icon_align
+
+    /* Button - Icon Spacing */
+    ,.elementor-control-icon_indent
+
+    /* Button ID */
+    ,.elementor-control-button_css_id
+
+
+
+
+
+    /***** Image *****/
+    /* Image - Image Size */
+    ,.elementor-control-image_size
+
+    /* Image - Alignment */
+    ,.elementor-control-align
+
+    /* Image - Caption */
+    ,.elementor-control-caption_source
+
+
+
+
+
+
+    /*****  Text Editor  *****/
+
+    /* Text Editor - Drop Cap */
+    ,.elementor-control-drop_cap
+
+
+
+
+    /***** Form *****/
+    /* Form Fields - Form Name */
+    ,.elementor-control-form_name
+
+    /* Form Fields - Column Width */
+    ,.elementor-control-width
+
+    /* Form Fields - ID */
+    ,.elementor-control-custom_id
+
+    /* Form Fields - Shortcode */
+    ,.elementor-control-shortcode
+
+    /* Form Fields - Input Size */
+    ,.elementor-control-input_size
+
+    /* Form Fields - Label */
+    ,.elementor-control-show_labels
+
+    /* Form Fields - Required Mark */
+    ,.elementor-control-mark_required
+
+    /* Buttons */
+    ,.elementor-control-section_buttons
+    /* Actions After Submit */
+    ,.elementor-control-section_integration
+
+    /* Steps Settings */
+    ,.elementor-control-section_steps_settings
+
+    /* Additional Options */
+    ,.elementor-control-section_form_options
+
+
+
+
+    /***** Portfolio Carousel *****/
+    /* General */
+    ,.elementor-control-cat_general_general
+
+
+
+
+
+    /***** Post Carousel *****/
+    /* General */
+    /* the same with: Portfolio Carousel - General */
+
+    /* Layout */
+    ,.elementor-control-cat_content_mnd2wi8x
+
+    /* Nav Arrows */
+    ,.elementor-control-cat_content_2phcwbon
+
+    /* Post Query - Posts Source */
+    ,.elementor-control-post_source
+
+    /* Post Query - Posts Type */
+    ,.elementor-control-post_posttype
+
+    /* Post Query - Include By */
+    ,.elementor-control-post_includeby
+
+    /* Post Query - Include By Terms Relation */
+    ,.elementor-control-post_category_relation
+
+    /* Post Query - Include Terms Children */
+    ,.elementor-control-post_terms_include_children
+
+    /* Post Query - Exclude By */
+    ,.elementor-control-post_excludeby
+
+    /* Post Query - Order By */
+    ,.elementor-control-post_orderby
+
+    /* Post Query - Order By Direction */
+    ,.elementor-control-post_orderdir1
+
+
+    /* Post Query - Query ID */
+    ,.elementor-control-post_queryid
+
+    /* Post Query - Show Query Debug */
+    ,.elementor-control-post_show_query_debug
+
+    /* Posts Pagination */
+    ,.elementor-control-section_pagination
+
+
+
+    /***** Posts *****/
+    /* Layout */
+    ,.elementor-control-section_layout
+
+    /* Query */
+    ,.elementor-control-section_query
+
+    /* Pagination */
+    ,.elementor-control-section_pagination
+
+
+    /***** Tabs *****/
+    /* Tabs - Type */
+    ,.elementor-control-type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+display:none;
+}
+
+.wp-admin #wpcontent #wpbody-content #coupon-root .woocommerce-marketing-coupons {
+    display: none;
+}
+
+/* 共有部分 */
+.wp-admin #wpcontent #wpbody #wpbody-content #screen-meta-links {
+    display: none !important;
+}
+    
+.wp-admin #wpcontent #wpbody #villatheme-support {
+    display: none !important;
+}
+
+.wp-admin #wpwrap #wpfooter {
+    display: none !important;
+}
+
+/* Dropship & Fulfil */
+.toplevel_page_woo-alidropship #wpcontent #wpbody .woo-alidropship .vi-ui>.tabular.menu>.item[data-tab="attributes"] {
+    display: none !important;
+}
+
+.toplevel_page_woo-alidropship #wpcontent #wpbody .woo-alidropship .vi-ui>.tabular.menu>.item[data-tab="product_update"] {
+    display: none !important;
+}
+
+.toplevel_page_woo-alidropship #wpcontent #wpbody .woo-alidropship .vi-ui>.tabular.menu>.item[data-tab="shipping"] {
+    display: none !important;
+}
+
+.toplevel_page_woo-alidropship #wpcontent #wpbody .woo-alidropship .vi-ui .segment[data-tab="price"] .form-table tbody>tr:nth-child(n+3) {
+    display: none !important;
+}
+
+.toplevel_page_woo-alidropship #wpcontent #wpbody .woo-alidropship .vi-ui .segment[data-tab="fulfill"] .form-table tbody>tr:first-child,
+.toplevel_page_woo-alidropship #wpcontent #wpbody .woo-alidropship .vi-ui .segment[data-tab="fulfill"] .form-table tbody>tr:last-child {
+    display: none !important;
+}
+
+/* WC Lucky Wheel */
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="popup"] .form-table tbody>tr:nth-child(-n+3) {
+    display: none !important;
+}
+
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="wheel-wrap"] .form-table tbody>tr:nth-child(3) {
+    display: none !important;
+}
+
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="custom-fields"] .form-table tbody>tr:nth-child(n+4) {
+    display: none !important;
+}
+
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="wheel"] .form-table tbody.content>tr:nth-child(3),
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="wheel"] .form-table tbody.content>tr:nth-child(-n+8):nth-child(n+5),
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="wheel"] .form-table tbody.content>tr:nth-last-child(-n+3):not(:last-child) {
+    display: none !important;
+}
+
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="result"] .form-table tbody>tr:nth-child(-n+11):nth-child(n+7),
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="result"] .form-table tbody>tr:nth-last-child(2) {
+    display: none !important;
+}
+
+.toplevel_page_woo-lucky-wheel #wpcontent #wpbody .wrap .vi-ui .segment[data-tab="email_api"] .form-table tbody>tr:nth-last-child(-n+8) {
+    display: none !important;
+}
+
+/* WP Mail SMTP */
+.toplevel_page_wp-mail-smtp #wpwrap #wp-mail-smtp-flyout,.toplevel_page_wp-mail-smtp #wpcontent #wp-mail-smtp-notice-bar,
+.toplevel_page_wp-mail-smtp #wpcontent #wpbody .wp-mail-smtp-page .wp-mail-smtp-page-content #wp-mail-smtp-pro-banner,
+.toplevel_page_wp-mail-smtp #wpcontent #wpbody .wp-mail-smtp-page .wp-mail-smtp-page-content form #wp-mail-smtp-setting-row-license-heading,
+.toplevel_page_wp-mail-smtp #wpcontent #wpbody .wp-mail-smtp-page .wp-mail-smtp-page-content form #wp-mail-smtp-setting-row-license_key {
+    display: none !important;
+}
+
+.toplevel_page_wp-mail-smtp #wpcontent #wpbody #wp-mail-smtp .wp-mail-smtp-page .wp-mail-smtp-page-title>a:nth-last-child(-n+3) {
+    display: none !important;
+}
+
+.wp-mail-smtp_page_wp-mail-smtp-tools #wpwrap #wp-mail-smtp-flyout,.wp-mail-smtp_page_wp-mail-smtp-tools #wpcontent #wpbody #wp-mail-smtp .wp-mail-smtp-page .wp-mail-smtp-page-title>a:nth-last-child(-n+3) {
+    display: none !important;
+}
+
+.woocommerce-feature-enabled-marketing.post-php #wpcontent #wpbody #post #poststuff .postbox-container #normal-sortables #aam-access-manager {
+    display: none !important;
+}
+
+/* Dashboard */
+.index-php #wpwrap #wpcontent #wpbody .wrap #monsterinsights_reports_widget .inside .monsterinsights-dashboard-widget-page .monsterinsights-widget-settings .monsterinsights-width-button,.index-php #wpwrap #wpcontent #wpbody .wrap #monsterinsights_reports_widget .inside .monsterinsights-dashboard-widget-page .monsterinsights-widget-settings .monsterinsights-widget-dropdown {
+    display: none !important;
+}
+
+/* Insights */
+.toplevel_page_monsterinsights_reports #wpwrap #wpcontent #wpbody .monsterinsights-admin-page .monsterinsights-navigation-bar .monsterinsights-main-navigation>.monsterinsights-navigation-tab-link:nth-child(3),.toplevel_page_monsterinsights_reports #wpwrap #wpcontent #wpbody .monsterinsights-admin-page .monsterinsights-navigation-bar .monsterinsights-main-navigation>.monsterinsights-navigation-tab-link:nth-child(5),.toplevel_page_monsterinsights_reports #wpwrap #wpcontent #wpbody .monsterinsights-admin-page .monsterinsights-navigation-bar .monsterinsights-main-navigation>.monsterinsights-navigation-tab-link:nth-last-child(1) {
+    display: none !important
+}
+
+.toplevel_page_monsterinsights_reports #wpwrap #wpcontent #wpbody #wpbody-content .monsterinsights-admin-page .monsterinsights-quick-links {
+    display: none !important;
+}
+
+
+/* WooCommerce */
+.woocommerce_page_wc-admin #wpcontent #wpbody .wrap #woocommerce-layout__primary .woocommerce-layout__main .woocommerce-homescreen-column .woocommerce-homepage-notes-wrapper {
+    display: none !important;
+}
+
+.woocommerce_page_wc-settings #wpcontent #wpbody #wpbody-content div #woocommerce-embedded-layout__primary {
+    display: none !important;
+}
+
+/* Shopify to Woo */
+.toplevel_page_s2w-import-shopify-to-woocommerce #wpcontent #wpbody #wpbody-content .wrap .s2w-security-warning,.toplevel_page_s2w-import-shopify-to-woocommerce #wpcontent #wpbody #wpbody-content .wrap .s2w-import-container>.segment>h4,.toplevel_page_s2w-import-shopify-to-woocommerce #wpcontent #wpbody #wpbody-content .wrap .s2w-import-container>.segment>.s2w-logs {
+    display: none !important;
+}

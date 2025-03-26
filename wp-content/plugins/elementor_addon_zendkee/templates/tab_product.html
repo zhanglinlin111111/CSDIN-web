@@ -1,0 +1,54 @@
+<!--<div id="{{ data.id }}" class="tab_product_wrapper">-->
+
+
+<!--{{id}}-->
+<!--{{data.products}}-->
+<!--{% for item in data.products %}-->
+<!--{{item.id}}<br>-->
+<!--{{item.title}}<br>-->
+<!--{{item.url}}<br>-->
+<!--{{item.image}}<br>-->
+<!--{{item.image_html}}<br>-->
+<!--{{item.except}}<br>-->
+<!--{% endfor%}-->
+
+
+<!--{{ data.pagination }}-->
+<!--{{ data.pagination|raw }}-->
+<!--</div>-->
+
+<script type="text/javascript">
+    var slidesPerView_mobile = "{{ slidesPerView_mobile }}";
+    var slidesPerView_pc = "{{ slidesPerView_pc }}";
+</script>
+<nav class="navGroup">
+    {% for key , tab_title in tabs_title %}
+    <h2 {% if key== 0 %} class="active" {% endif %}>{{tab_title}}</h2>
+    {% endfor %}
+</nav>
+<ul class="tabGroup">
+    {% for key , tab_content in tabs_content %}
+    <li {% if key== 0 %} class="current" {% endif %}>
+        <div class="swiper-container" id="{{ tab_content.id }}">
+            <div class="swiper-wrapper">
+                {% for product in tab_content.products %}
+                <div class="swiper-slide tab_product_slide">
+                    <div class="slide-container">
+                        <span class="item_img">
+                          {{ product.image_html|raw }}
+                          <a href="{{ product.url }}" class="img_shadow"></a>
+                        </span>
+                        <span>{{ product.title }}</span>
+                    </div>
+                </div>
+                {% endfor %}
+
+            </div>
+            <div class="swiper-pagination swiper-p1"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+    </li>
+    {% endfor %}
+
+</ul>

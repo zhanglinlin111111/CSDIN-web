@@ -1,0 +1,59 @@
+/** Editor隐藏不必要的显示项 **/
+
+#wp-admin-bar-user-info .display-name,
+#wp-admin-bar-user-info .username{
+    display: none;
+}
+
+
+
+
+.wp-list-table .column-author,
+.wp-list-table .column-comments,
+.wp-list-table .column-wpseo-score,
+.wp-list-table .column-wpseo-score-readability,
+.wp-list-table .column-wpseo-title,
+.wp-list-table .column-wpseo-metadesc,
+.wp-list-table .column-wpseo-focuskw,
+.wp-list-table .column-wpseo-links,
+.wp-list-table .column-wpseo-linked
+{
+    display: none;
+}
+
+#screen-meta-links{
+    display: none;
+}
+
+.tablenav.top{
+    display: none;
+}
+
+p.search-box{
+    margin-bottom: 15px;
+}
+
+
+/*for frofile page*/
+#profile-page tr.user-rich-editing-wrap,
+#profile-page tr.user-admin-color-wrap,
+#profile-page tr.user-comment-shortcuts-wrap,
+#profile-page tr.user-admin-bar-front-wrap,
+#profile-page tr.user-url-wrap,
+
+#profile-page tr.user-facebook-wrap,
+#profile-page tr.user-instagram-wrap,
+#profile-page tr.user-linkedin-wrap,
+#profile-page tr.user-myspace-wrap,
+#profile-page tr.user-pinterest-wrap,
+#profile-page tr.user-soundcloud-wrap,
+#profile-page tr.user-tumblr-wrap,
+#profile-page tr.user-twitter-wrap,
+#profile-page tr.user-youtube-wrap,
+#profile-page tr.user-wikipedia-wrap,
+
+#profile-page tr.user-description-wrap,
+#profile-page tr.user-profile-picture .description
+{
+    display: none;
+}

@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('wp-components', 'wp-element', 'wp-i18n', 'wp-media-utils'), 'version' => 'f40cb629defbdb365cf7f2a94f629c4c');

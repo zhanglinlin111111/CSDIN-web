@@ -1,0 +1,21 @@
+/*
+* for widgets only
+* */
+
+#elementor-panel-footer-goback{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    color: #a4afb7;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+#elementor-panel-footer-goback a{
+    color: #a4afb7;
+}
+
+
+

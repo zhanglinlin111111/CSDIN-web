@@ -1,0 +1,68 @@
+div.disable-bloat-container {
+    line-height: 1.7;
+}
+
+.form-table td p {
+    margin: 10px 0;
+    color: #646970;
+}
+
+p#footer-left {
+    display: none !important;
+}
+
+p#footer-upgrade {
+    display: none !important;
+}
+
+span.dashicons {
+    color: #404040;
+    font-size: 70px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.wcbloat-pro-label {
+    font-size: 10px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    line-height: 1;
+    border-radius: 2px;
+    background-color: #0073b2;
+    margin: 4px;
+    padding-left: 2px;
+    display: inline-block;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    vertical-align: top;
+    padding-top: 2px;
+    margin-top: 3px;
+}
+
+p.wcbloat-bar {
+    padding: 10px;
+    background-color: white;
+    max-width: 700px;
+}
+
+td.wcbloat-wp-widgets-disable-multi-checkbox {
+    padding: 5px 120px 5px 5px !important;
+}
+
+td.wcbloat-disable-sidebar-widgets-multi-checkbox {
+    padding: 5px 50px 5px 5px !important;
+}
+
+td.wcbloat-admin-disable-features-multi-checkbox {
+    padding: 5px 50px 5px 5px !important;
+}
+
+div.wcbloat-select-unselect-buttons {
+    margin: 5px 5px 10px 5px;
+    user-select: none;
+}
+
+div.wcbloat-wcadmin-radio {
+    line-height: 1.7;
+}
